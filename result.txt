@@ -1,0 +1,195 @@
+Waf: Entering directory `/home/wanwiset/Desktop/ns-allinone-3.29/ns-3.29/build'
+[2556/2611] Compiling scratch/testwifi.cc
+[2611/2611] Linking build/scratch/testwifi
+Waf: Leaving directory `/home/wanwiset/Desktop/ns-allinone-3.29/ns-3.29/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (13.914s)
+nWifi=1
+payloadSize=995
+minCw=31
+maxCw=255
+simulationTime=100
+Packet count = 10079
+Throughput_UDP 0.812288 Mbit/s
+Throughput_MAC 0.834865 Mbit/s
+*********************************************************
+nWifi=5
+payloadSize=995
+minCw=31
+maxCw=255
+simulationTime=100
+Packet count = 9657
+Throughput_UDP 0.778697 Mbit/s
+Throughput_MAC 0.800329 Mbit/s
+*********************************************************
+nWifi=10
+payloadSize=995
+minCw=31
+maxCw=255
+simulationTime=100
+Packet count = 8951
+Throughput_UDP 0.7225 Mbit/s
+Throughput_MAC 0.74255 Mbit/s
+*********************************************************
+nWifi=15
+payloadSize=995
+minCw=31
+maxCw=255
+simulationTime=100
+Packet count = 8464
+Throughput_UDP 0.683734 Mbit/s
+Throughput_MAC 0.702694 Mbit/s
+*********************************************************
+nWifi=20
+payloadSize=995
+minCw=31
+maxCw=255
+simulationTime=100
+Packet count = 8051
+Throughput_UDP 0.65086 Mbit/s
+Throughput_MAC 0.668894 Mbit/s
+*********************************************************
+nWifi=30
+payloadSize=995
+minCw=31
+maxCw=255
+simulationTime=100
+Packet count = 7402
+Throughput_UDP 0.599199 Mbit/s
+Throughput_MAC 0.61578 Mbit/s
+*********************************************************
+nWifi=50
+payloadSize=995
+minCw=31
+maxCw=255
+simulationTime=100
+Packet count = 6446
+Throughput_UDP 0.523102 Mbit/s
+Throughput_MAC 0.537541 Mbit/s
+*********************************************************
+nWifi=1
+payloadSize=995
+minCw=31
+maxCw=1023
+simulationTime=100
+Packet count = 10056
+Throughput_UDP 0.810458 Mbit/s
+Throughput_MAC 0.832983 Mbit/s
+*********************************************************
+nWifi=5
+payloadSize=995
+minCw=31
+maxCw=1023
+simulationTime=100
+Packet count = 9702
+Throughput_UDP 0.782279 Mbit/s
+Throughput_MAC 0.804012 Mbit/s
+*********************************************************
+nWifi=10
+payloadSize=995
+minCw=31
+maxCw=1023
+simulationTime=100
+Packet count = 9027
+Throughput_UDP 0.728549 Mbit/s
+Throughput_MAC 0.74877 Mbit/s
+*********************************************************
+nWifi=15
+payloadSize=995
+minCw=31
+maxCw=1023
+simulationTime=100
+Packet count = 8634
+Throughput_UDP 0.697266 Mbit/s
+Throughput_MAC 0.716607 Mbit/s
+*********************************************************
+nWifi=20
+payloadSize=995
+minCw=31
+maxCw=1023
+simulationTime=100
+Packet count = 8225
+Throughput_UDP 0.66471 Mbit/s
+Throughput_MAC 0.683134 Mbit/s
+*********************************************************
+nWifi=30
+payloadSize=995
+minCw=31
+maxCw=1023
+simulationTime=100
+Packet count = 7794
+Throughput_UDP 0.630402 Mbit/s
+Throughput_MAC 0.647861 Mbit/s
+*********************************************************
+nWifi=50
+payloadSize=995
+minCw=31
+maxCw=1023
+simulationTime=100
+Packet count = 7199
+Throughput_UDP 0.58304 Mbit/s
+Throughput_MAC 0.599166 Mbit/s
+*********************************************************
+nWifi=1
+payloadSize=995
+minCw=127
+maxCw=1023
+simulationTime=100
+Packet count = 8112
+Throughput_UDP 0.655715 Mbit/s
+Throughput_MAC 0.673886 Mbit/s
+*********************************************************
+nWifi=5
+payloadSize=995
+minCw=127
+maxCw=1023
+simulationTime=100
+Packet count = 9856
+Throughput_UDP 0.794538 Mbit/s
+Throughput_MAC 0.816615 Mbit/s
+*********************************************************
+nWifi=10
+payloadSize=995
+minCw=127
+maxCw=1023
+simulationTime=100
+Packet count = 9862
+Throughput_UDP 0.795015 Mbit/s
+Throughput_MAC 0.817106 Mbit/s
+*********************************************************
+nWifi=15
+payloadSize=995
+minCw=127
+maxCw=1023
+simulationTime=100
+Packet count = 9671
+Throughput_UDP 0.779812 Mbit/s
+Throughput_MAC 0.801475 Mbit/s
+*********************************************************
+nWifi=20
+payloadSize=995
+minCw=127
+maxCw=1023
+simulationTime=100
+Packet count = 9514
+Throughput_UDP 0.767314 Mbit/s
+Throughput_MAC 0.788626 Mbit/s
+*********************************************************
+nWifi=30
+payloadSize=995
+minCw=127
+maxCw=1023
+simulationTime=100
+Packet count = 9187
+Throughput_UDP 0.741285 Mbit/s
+Throughput_MAC 0.761864 Mbit/s
+*********************************************************
+nWifi=50
+payloadSize=995
+minCw=127
+maxCw=1023
+simulationTime=100
+Packet count = 8624
+Throughput_UDP 0.69647 Mbit/s
+Throughput_MAC 0.715788 Mbit/s
+*********************************************************
